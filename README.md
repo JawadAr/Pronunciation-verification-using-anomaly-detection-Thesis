@@ -9,14 +9,15 @@
   <a href="https://github.com/JawadAr/Pronunciation-verification-using-anomaly-detection-Thesis">
     <img src="download.png" alt="Logo" width="80" height="80">
   </a>
+</p>
 
   <h3 align="center">Pronunciation Verification using Anomaly Detection</h3>
-
   <p align="center">
     A MS thesis @ITU
     <br />
     <a href="https://itu.edu.pk">
-
+   </p>
+  
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
