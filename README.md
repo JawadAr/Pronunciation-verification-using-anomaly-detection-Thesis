@@ -13,9 +13,7 @@
 
   <h3 align="center">Pronunciation Verification using Anomaly Detection</h3>
   <p align="center">
-    A MS thesis @ITU
-    <br />
-    <a href="https://itu.edu.pk">
+   A MS thesis @<a href="https://itu.edu.pk">ITU</a>
    </p>
   
 <!-- TABLE OF CONTENTS -->
