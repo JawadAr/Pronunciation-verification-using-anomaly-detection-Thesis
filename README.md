@@ -15,7 +15,7 @@
   <p align="center">
     A MS thesis @ITU
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">
+    <a href="https://itu.edu.pk">
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
